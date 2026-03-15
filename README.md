@@ -122,8 +122,3 @@ cp -r ro-sharp-vscode ~/.vscode/extensions/ro-sharp
 
 Dupa repornirea VS Code, apasa **F5** pe orice fisier `.rop` pentru a-l rula.
 
-> Vezi [INSTRUCTIUNI.md](INSTRUCTIUNI.md) pentru mai multe detalii.
-
----
-
-*Facut cu ❤️ de [Skripty-gb](https://github.com/Skripty-gb) — v2.0.0*
