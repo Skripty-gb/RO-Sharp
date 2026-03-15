@@ -16,9 +16,13 @@ stop
 
 ## Alte fisiere .md
 
+---
+
 ### Pentru a vedea intrunctiuniile de instalare, intra pe **[INSTRUCTIUNI.md](INSTRUCTIUNI.md)**
 
 ---
+
+### Pentru a vedea sintaxa completa al limbajului de programare, intra pe **[DOCS.md](DOCS.md)**
 
 ## Sintaxa
 
