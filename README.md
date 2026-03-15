@@ -14,6 +14,10 @@ stop
 
 ---
 
+## Alte fisiere .md
+
+Pentru a vedea intrunctiuniile de instalare, intra pe [INSTRUCTIUNI.md](INSTRUCTIUNI.md)
+
 ## Sintaxa
 
 ### Output & Variabile
@@ -113,12 +117,3 @@ Dupa repornirea VS Code, apasa **F5** pe orice fisier `.rop` pentru a-l rula.
 
 > Vezi [INSTRUCTIUNI.md](INSTRUCTIUNI.md) pentru mai multe detalii.
 
----
-
-## Versiune
-
-**v2.0.0** — Vezi [DOCS.md](DOCS.md) pentru documentatie completa.
-
----
-
-*Facut cu ❤️ de [Skripty-gb](https://github.com/Skripty-gb)*
