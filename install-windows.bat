@@ -19,7 +19,6 @@ if not exist "%~dp0interpretor.py" (
 copy "%~dp0interpretor.py" "%ROPFOLDER%\interpretor.py" >nul
 echo Interpretor copiat cu succes!
 
-:: Copiaza iconita daca exista
 if exist "%~dp0ro-sharp.ico" (
     copy "%~dp0ro-sharp.ico" "%ROPFOLDER%\ro-sharp.ico" >nul
     echo Iconita copiata cu succes!
