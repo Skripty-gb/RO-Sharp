@@ -3,7 +3,7 @@
 ## 1. Instalare RO-Sharp
 
 ### Windows
-1. Descarca `interpretor.py`, `install-windows.bat` si `ro-sharp.ico`
+1. Descarca `interpretor.py`, `install-windows.bat`
 2. Pune-le in acelasi folder
 3. Ruleaza `install-windows.bat` ca Administrator
 4. Redeschide terminalul
