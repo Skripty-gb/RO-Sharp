@@ -41,7 +41,6 @@ def eval_expresie_matematica(expresie):
 
 def eval_conditie(cond):
     cond = cond.strip()
-    # Operatori logici: si, sau
     if " sau " in cond:
         parti = cond.split(" sau ", 1)
         return eval_conditie(parti[0]) or eval_conditie(parti[1])
