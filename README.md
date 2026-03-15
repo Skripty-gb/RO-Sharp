@@ -1,6 +1,8 @@
 # RO-Sharp 🇷🇴
 
-**RO-Sharp** este un limbaj de programare simplu, scris in limba romana. Fisierele au extensia `.rop` si sunt interpretate in Python.
+> Un limbaj de programare simplu, scris in limba romana.
+
+Fisierele au extensia `.rop` si sunt interpretate in Python.
 
 ```rop
 // Primul tau program in RO-Sharp
@@ -14,19 +16,16 @@ stop
 
 ---
 
-## Alte fisiere .md
+## 📚 Documentatie
+
+| Fisier | Descriere |
+|---|---|
+| [INSTRUCTIUNI.md](INSTRUCTIUNI.md) | Cum se instaleaza pe Windows, Linux si Mac |
+| [DOCS.md](DOCS.md) | Sintaxa completa a limbajului |
 
 ---
 
-### Pentru a vedea intrunctiuniile de instalare, intra pe **[INSTRUCTIUNI.md](INSTRUCTIUNI.md)**
-
----
-
-### Pentru a vedea sintaxa completa al limbajului de programare, intra pe **[DOCS.md](DOCS.md)**
-
----
-
-## Sintaxa
+## ⚡ Sintaxa Rapida
 
 ### Output & Variabile
 ```rop
@@ -78,6 +77,7 @@ salut("Ion")
 lista fructe = []
 adauga "mar" la lista fructe
 adauga "para" la lista fructe
+
 pentru f in fructe
     scrie f
 stop
@@ -97,7 +97,7 @@ titlu_mare "Bun venit!"
 eticheta "Scrie numele tau:"
 input_text nume
 buton "Trimite"
-porniste
+porneste
 ```
 
 ### Gestionare Erori
@@ -111,11 +111,10 @@ stop
 
 ---
 
-## Extensie VS Code
+## 🎨 Extensie VS Code
 
-Extensia adauga syntax highlighting si rulare directa pentru fisierele `.rop`.
+Extensia adauga **syntax highlighting** si **rulare directa** pentru fisierele `.rop`.
 
-**Instalare:**
 ```bash
 unzip ro-sharp-vscode.zip
 cp -r ro-sharp-vscode ~/.vscode/extensions/ro-sharp
@@ -125,3 +124,6 @@ Dupa repornirea VS Code, apasa **F5** pe orice fisier `.rop` pentru a-l rula.
 
 > Vezi [INSTRUCTIUNI.md](INSTRUCTIUNI.md) pentru mai multe detalii.
 
+---
+
+*Facut cu ❤️ de [Skripty-gb](https://github.com/Skripty-gb) — v2.0.0*
