@@ -1,0 +1,3 @@
+scrie "hi"
+seteaza x la 100
+scrie x + " Is 100"
