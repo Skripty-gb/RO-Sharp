@@ -32,7 +32,6 @@ set "NEWPATH=%NEWPATH:;.ROSharp=%"
 setx PATH "%NEWPATH%" >nul
 echo PATH actualizat.
 
-:: Reseteaza cache iconite
 ie4uinit.exe -ClearIconCache >nul 2>&1
 
 echo.
